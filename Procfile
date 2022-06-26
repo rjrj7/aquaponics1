@@ -1,1 +1,1 @@
-web: gunicorn SpeevePonics.wsgi --log-file -
+web:gunicorn SpeevePonics.wsgi --log-file -
